@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
-  console.log("hey javascript from the web server is loading ");
+  console.log("hey javascript from web server is loading cos dom content loaded");
 });
-console.log("hey this is from js");
+
+console.log("hey immediate ws js");
 
 alert("oh hey here we are!");
